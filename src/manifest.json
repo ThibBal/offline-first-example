@@ -15,7 +15,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url":"/dist/index.html",
-  "display": "standalone",
+  "start_url": "/",
+  "display": "fullscreen",
   "orientation": "portrait"
 }
