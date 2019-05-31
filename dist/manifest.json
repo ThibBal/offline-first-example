@@ -16,6 +16,6 @@
     }
   ],
   "start_url":"/dist/index.html?utm_source=homescreen",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait"
 }
