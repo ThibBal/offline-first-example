@@ -1,7 +1,7 @@
 # offline-first-example
 Basic offline first example intended for use on a static web app on iOS that includes HTML5 video.
 
-[Demo](https://persianturtle.github.io/offline-first-example/dist): After first page load, try refreshing the page without a network connection on any device including iPhone/iPad/iOS Safari/Chrome.
+[Demo](https://thibbal.github.io/offline-first-example/dist): After first page load, try refreshing the page without a network connection on any device including iPhone/iPad/iOS Safari/Chrome.
 
 This example uses `Webpack` & `Webpack Offline Plugin` which uses `Service Worker` and `Application Cache` as a fallback.
 
